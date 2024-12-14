@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.profile-container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+}
+
+.profile-info, .booking-history, .packages {
+    margin-bottom: 30px;
+}
+
+.profile-info h2, .booking-history h2, .packages h2 {
+    color: #333;
+    font-size: 1.5em;
+}
+
+.package, .booking {
+    background-color: #f8f8f8;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: #444;
+}
+
+.package img {
+    margin-top: 10px;
+    max-width: 100%;
+}
