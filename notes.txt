@@ -1,0 +1,11 @@
+
+- add more details about each package
+- make select group to where to from packages
+- change page main color "still not good"
+- make photos in header section home move automatically
+- add payment and it's validation
+- add admin panel
+- edit database
+- add sign up page
+- make login and package choice stable
+- edit contact page 
